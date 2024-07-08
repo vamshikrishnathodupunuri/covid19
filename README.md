@@ -1,0 +1,2 @@
+•  Initiated a data exploration project in response to the global COVID-19 pandemic to gain insights into the spread and impact of the virus using SQL.
+•  Analysed mortality rates aid in a comprehensive risk assessment, calculated through death percentages from total cases and Analysed population versus vaccination rates provide valuable insights into the global progress of vaccination by countries.
